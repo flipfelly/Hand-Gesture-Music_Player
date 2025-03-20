@@ -3,10 +3,14 @@
 
 Control your music with intuitive, AI-powered hand gestures! This project uses computer vision and machine learning techniques to detect hand gestures in real time and convert them into music control commands.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bc197b1c-2586-42e8-9b9c-87f7c67d0f87" alt="Hand Gesture Music Control">
+</p>
 
----
 
 ## 🚀 Features
+
+For a detailed explanation of all functionalities, please check the code.
 
 - **Gesture-Controlled Playback:**
   - 👋 **Right hand - Left Wave:** Skip to the next track.
@@ -117,7 +121,6 @@ mkdir songs
 - **Interactive Visual Feedback:**  
   OpenCV overlays hand landmarks and gesture messages onto the webcam feed for user feedback.
 
----
 
 ---
 
@@ -136,7 +139,6 @@ mkdir songs
   - Run the application as an Administrator (required for system volume control).
   - Ensure your gestures are clear and within the detection zone.
 
----
 
 
 ---
