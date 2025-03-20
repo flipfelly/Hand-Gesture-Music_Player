@@ -3,8 +3,6 @@
 
 Control your music with intuitive, AI-powered hand gestures! This project uses computer vision and machine learning techniques to detect hand gestures in real time and convert them into music control commands.
 
-![Demo GIF](https://via.placeholder.com/640x480.png?text=Demo+GIF+Placeholder)  
-*Add your demo video or GIF here*
 
 ---
 
