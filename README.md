@@ -88,7 +88,7 @@ mkdir songs
 
 1. **Run the Program:**
    ```bash
-   python Fingers_count.py
+   python music_player.py
    ```
 
 2. **Control Your Music:**
@@ -145,7 +145,7 @@ mkdir songs
 
 ## 📧 Contact
 
-- **GitHub:** [Your GitHub Profile](https://github.com/flipfelly)
+- **GitHub:**(https://github.com/flipfelly)
 - **Email:** gontijofotografia@gmail.com
 
 ---
